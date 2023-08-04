@@ -1,4 +1,4 @@
-docker-plugin-loki
+docker-plugin-loki fork
 =========
 
 Install & update the loki plugin for Docker.
