@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: dockerpluginloki
+  namespace: mikevdberge
   author: Mike van den Berge
   description: Install and update the loki plugin for Docker
   company: QHSE Professionals
